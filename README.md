@@ -1,2 +1,2 @@
 # Employee-Management-
-SQL Project
+SQL Project on Employee Management. 
